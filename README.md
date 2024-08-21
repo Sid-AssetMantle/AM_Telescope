@@ -12,6 +12,7 @@
 3. Install proto templates (osmosis, cosmos, ibc, etc.). Add AssetMantle module and schema proto folders, also add the License and README file to the folder.
    
    `telescope install`
+   
    `telescope install @protobufs/osmosis`
    
    Select all the proto templates that are needed (select using space)
