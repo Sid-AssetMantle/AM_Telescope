@@ -1,4 +1,4 @@
-import * as _35 from "../confio/proofs";
+import * as _201 from "../confio/proofs";
 export const ics23 = {
-  ..._35
+  ..._201
 };

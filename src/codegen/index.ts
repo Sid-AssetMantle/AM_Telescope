@@ -6,6 +6,7 @@
  
 export * from "./amino/bundle";
 export * from "./AssetMantle/bundle";
+export * from "./AssetMantle/client";
 export * from "./ics23/bundle";
 export * from "./cosmos_proto/bundle";
 export * from "./cosmos/bundle";
