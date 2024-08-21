@@ -7,7 +7,7 @@
    
 2. Generate the telescope boilerplate. Add author, module name, description, email, github username, etc.
    
-   `cca --boilerplate telescope'
+   `cca --boilerplate telescope`
    
 3. Install proto templates (osmosis, cosmos, ibc, etc.). Add AssetMantle module and schema proto folders, also add the License and README file to the folder.
    
