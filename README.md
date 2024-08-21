@@ -24,6 +24,7 @@
    `telescope transpile`
    
    proto path - ./proto
+   
    src/codegen path - ./src/codegen
    
-6. Typescript code will be generated for all the protos in the codegen folder inside src.
+7. Typescript code will be generated for all the protos in the codegen folder inside src.
